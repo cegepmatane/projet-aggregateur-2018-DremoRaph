@@ -1,0 +1,7 @@
+C:\Users\1740340\source\repos\Projet Agregation\Projet Agregation\bin\Debug\Projet Agregation.exe.config
+C:\Users\1740340\source\repos\Projet Agregation\Projet Agregation\bin\Debug\Projet Agregation.exe
+C:\Users\1740340\source\repos\Projet Agregation\Projet Agregation\bin\Debug\Projet Agregation.pdb
+C:\Users\1740340\source\repos\Projet Agregation\Projet Agregation\obj\Debug\Projet Agregation.csprojAssemblyReference.cache
+C:\Users\1740340\source\repos\Projet Agregation\Projet Agregation\obj\Debug\Projet Agregation.csproj.CoreCompileInputs.cache
+C:\Users\1740340\source\repos\Projet Agregation\Projet Agregation\obj\Debug\Projet Agregation.exe
+C:\Users\1740340\source\repos\Projet Agregation\Projet Agregation\obj\Debug\Projet Agregation.pdb
