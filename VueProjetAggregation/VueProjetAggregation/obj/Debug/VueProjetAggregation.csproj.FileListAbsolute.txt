@@ -1,0 +1,17 @@
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation.csprojAssemblyReference.cache
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\FenêtreNouvelle.g.cs
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\MainWindow.g.cs
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\App.g.cs
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation_MarkupCompile.cache
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation_MarkupCompile.lref
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\bin\Debug\VueProjetAggregation.exe.config
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\bin\Debug\VueProjetAggregation.exe
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\bin\Debug\VueProjetAggregation.pdb
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\FenêtreNouvelle.baml
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\MainWindow.baml
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation.g.resources
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation.Properties.Resources.resources
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation.csproj.GenerateResource.cache
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation.csproj.CoreCompileInputs.cache
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation.exe
+C:\Users\1740340\source\repos\VueProjetAggregation\VueProjetAggregation\obj\Debug\VueProjetAggregation.pdb
